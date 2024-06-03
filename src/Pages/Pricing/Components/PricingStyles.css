@@ -1,0 +1,39 @@
+.cards{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:50px;
+    flex-wrap: wrap;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap:30px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+    border: 1px solid white;
+    transition: 0.5s all;
+    border-radius: 5px;
+    padding-bottom:20px ;
+}
+
+.card:hover{
+transform:scale(1.05);
+background-color: rgba(255, 255, 255,0.5);
+}
+.card h4{
+    font-size: 40px;
+}
+.card .content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+    flex-direction: column;
+} 
