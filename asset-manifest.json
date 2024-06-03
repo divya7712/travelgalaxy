@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/travelgalaxy/static/css/main.9640c521.css",
-    "main.js": "/travelgalaxy/static/js/main.d777f7b1.js",
+    "main.js": "/travelgalaxy/static/js/main.3c94adde.js",
     "static/media/earth.mp4": "/travelgalaxy/static/media/earth.217bc138c2eb8d98fc50.mp4",
     "static/media/arrow.png": "/travelgalaxy/static/media/arrow.8e80b70760cce3a72ff5.png",
     "static/media/sliderImg3.jpeg": "/travelgalaxy/static/media/sliderImg3.ec0742b9353ea56b4110.jpeg",
@@ -12,10 +12,10 @@
     "static/media/slick.woff": "/travelgalaxy/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/travelgalaxy/index.html",
     "main.9640c521.css.map": "/travelgalaxy/static/css/main.9640c521.css.map",
-    "main.d777f7b1.js.map": "/travelgalaxy/static/js/main.d777f7b1.js.map"
+    "main.3c94adde.js.map": "/travelgalaxy/static/js/main.3c94adde.js.map"
   },
   "entrypoints": [
     "static/css/main.9640c521.css",
-    "static/js/main.d777f7b1.js"
+    "static/js/main.3c94adde.js"
   ]
 }
